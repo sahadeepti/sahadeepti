@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Deepti Saha(@sahadeepti)
-- 👀 I’m interested in front-end devlopment
-- 🌱 I’m always trying to learn something new.
-- 💞️ I’m looking forward to collaborate on productive projects.
-- 📫 Reach me deeptisaha18@gmail.com.
-- ✨ view portfolio https://deeptisaha.netlify.app/
-- ⚡ Fun fact: My favorite sweet dish is rice pudding and I like to cook for relaxment.
-- 💻 Languages & Tools: Visual Studio Code, HTML5, CSS3, JavaScript, jQuery, Bootstrap
+# 👋 Hi, I’m Deepti Saha. Thank you for your time and attention.
+I'm a web developer, enthuastic about creating dynamic, user-friedly and easy-navigable websites. I enjoy bringing a static design or idea to life and learning new technologies. I'm a computer secience graduate, with a firm grasp on programming basics and concepts, later on I completed my PG-Diploma in Web-Designing & Web-Development.
+
+#### :hammer_and_wrench: LANGUAGES & TOOLS :
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,postman)](https://skillicons.dev)
+
+## Have a project you want to collaborate on or you just want to chat?
+ 📫 Reach me deeptisaha18@gmail.com.
+
 
 
 
