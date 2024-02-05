@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Deepti Saha. Thank you for your time and attention.
-I'm a web developer, enthuastic about creating dynamic, user-friedly and easy-navigable websites. I enjoy bringing a static design or idea to life and learning new technologies. I'm a computer secience graduate, with a firm grasp on programming basics and concepts, later on I completed my PG-Diploma in Web-Designing & Web-Development.
+I'm a web developer, enthuastic about creating dynamic, user-friedly and easy-navigable websites. I enjoy bringing a static design or idea to life and learning new technologies. I'm a computer secience graduate, with a firm grasp on programming basics and concepts, later on I completed my PG-Diploma in Web-Designing & Web-Development. 
+
+Currently, I am learning about Restful Api using PHP & Codeigniter. When learning new things, what I find important to remember is that I don't learn much at all in a day, but I can learn a lot in a month. As long as I'm committed to continue to learn.
 
 ---
 
