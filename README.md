@@ -6,7 +6,7 @@ Currently, I am learning about Restful Api using PHP & Codeigniter. When learnin
 ---
 
 #### :hammer_and_wrench: LANGUAGES & TOOLS :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,postman)](https://skillicons.dev)
 
 ---
 
